@@ -1,0 +1,11 @@
+# Core application
+PyQt6>=6.6
+PyQt6-Fluent-Widgets>=1.11.3
+altium-monkey>=2026.9
+requests>=2.31
+
+# Optional: interactive 3D preview of the STEP bodies.
+# Everything else in the app works without these; the 3D viewport then explains
+# that they are missing.
+vtk>=9.3
+cadquery>=2.4

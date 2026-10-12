@@ -1,0 +1,6 @@
+{
+  "proxy_address": "127.0.0.1",
+  "proxy_mode": "direct",
+  "proxy_port": "10808",
+  "theme": "System"
+}
